@@ -1,0 +1,16 @@
+{
+  "name": "package-reloader",
+  "main": "./lib/package-reloader",
+  "version": "0.0.0",
+  "description": "Reload atom package for package development",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "package-reloader:reload"
+  },
+  "repository": "https://github.com/hokaccha/atom-package-reloader",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
