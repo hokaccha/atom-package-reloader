@@ -1,10 +1,9 @@
 {
   "name": "package-reloader",
   "main": "./lib/package-reloader",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Reload atom package for package development",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "package-reloader:reload"
   },
